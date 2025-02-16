@@ -100,7 +100,7 @@ To complement this course, we have curated practice questions from **LeetCode** 
 ---
 ## Practice Questions
 For hands-on practice, visit my **LeetCode** and **GeeksforGeeks** repositories to solve the curated problems from this course:
-- **LeetCode Repository:** [Your LeetCode Repository Link]
-- **GeeksforGeeks Repository:** [Your GeeksforGeeks Repository Link]
+- **LeetCode Repository:** https://github.com/namangarg2002/leetcode
+- **GeeksforGeeks Repository:** https://github.com/namangarg2002/gfg
 
 Happy Coding! 🚀
