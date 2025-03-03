@@ -4,8 +4,8 @@
 Welcome to **CodeHelp Supreme 2.0**, a 5-month structured Data Structures and Algorithms (DSA) course designed to strengthen your problem-solving skills using C++. This course follows a well-organized weekly plan, covering fundamental to advanced DSA concepts with hands-on coding exercises.
 
 To complement this course, we have curated practice questions from **LeetCode** and **GeeksforGeeks**. If you are eager to solve these problems, please visit my repositories:
-- **LeetCode Repository:** [Your LeetCode Repository Link]
-- **GeeksforGeeks Repository:** [Your GeeksforGeeks Repository Link]
+- **LeetCode Repository:** https://github.com/namangarg2002/leetcode
+- **GeeksforGeeks Repository:** https://github.com/namangarg2002/gfg
 
 ---
 ## Weekly Plan
